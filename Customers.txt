@@ -1,0 +1,310 @@
+Baynton        Barbara                  Jerusalem                
+Piggott        Charles                  Richmond                 
+Watson         Dickenson                Native Corners           
+Andrews        Lee                      Cambridge                
+Hodgson        Daniel                   Cambridge                
+McDermot       Edward                   Hobart                   
+Flexmore       Martin                   Brushy Plains            
+Brock          Kathleen                 Cambridge                
+Burn           Pauline                  Mountain Bottom          
+Sharp          W.J.                     Richmond                 
+Monaghan       James                    Coal River               
+Blackmore      Robert                   Richmond                 
+Pedder         John Senior              Jerusalem                
+Belbin         Esther                   Cambridge                
+Bryne          Babs                     Jerusalem                
+Barwick        Abigail                  Hobart                   
+Brown          Dot                      Jerusalem                
+Briggs         Christine                Launceston               
+Pursell        William                  Oatlands                 
+Lindley        Hugh                     Spring Hill Bottom       
+Bevan          Honora                   Cambridge                
+Ashton         Rosie                    Coal River               
+Raynor         John T                   Jerusalem                
+McKleay        Philip                   Jerusalem                
+Thompson       Benjamin                 Jerusalem                
+Balsley        Lola                     Bagdad                   
+Anderson       Nanette                  Hobart                   
+Pearson        Robert                   Hobart                   
+Sargeant       Thomas                   Flat Top Hill            
+Bidgood        Rebecca                  Risdon                   
+Green          John                     Jerusalem                
+Brent          Annie                    Bellerive                
+Evans          Hugh                     Brinktop                 
+Grice          Edward                   Cambridge                
+Luttrell       James                    Richmond                 
+Burbury        Effie                    Prosser's Plains         
+Bayley         Vicky                    White Kangaroo River     
+Brittain       Sally                    Cambridge                
+Conlan         Joanna                   Jerusalem                
+Yule           John                     Cambridge                
+Blackburn      Cathy                    Coal River               
+Greenbank      Thomas                   Cambridge                
+Chapman        Polly                    Coal River               
+Howard         William                  Lower Jerusalem          
+Wright         Thomas                   Jerusalem                
+McKay          Thomas                   Grass Tree Hill          
+Booth          Edwina                   Richmond                 
+Bradshaw       Janet                    White Kangaroo river     
+Sheehy         Robert                   Hobart                   
+Cosgrove       Miles C                  Hobart                   
+Sidnell        William                  White Kangaroo River     
+Hayton         Samuel                   Bellerive                
+Devitt         Henry                    Brighton                 
+Brain          Gladys                   Hobart                   
+Sketch         William                  Orielton                 
+Burman         Janice                   Richmond                 
+Broadribb      Stephanie                Hobart                   
+Barrett        Rosalind                 Bellerive                
+Ellis          Joseph                   Jerusalem                
+Manning        Kenneth                  Mount Direction          
+Stuart         James                    Brushy Plains            
+Badman         William J                Tea Tree                 
+Clark          Marjorie                 Caol River               
+Kearney        Benjamin                 Richmond                 
+Mahoney        Peter                    Rosny                    
+Herbert        John                     Jerusalem                
+Roach          Thomas                   Hobart                   
+Arnold         Mildred                  Oatlands                 
+Flakeny        F                        Campania                 
+Burridge       Sandra                   Spring Hill Bottom       
+King           T                        Jerusalem                
+Barr           Jan                      Richmond                 
+Fox            David                    Campania                 
+Froud          Edward                   Brushy Plains            
+Cahill         Nan                      Bellerive                
+Bowden         Genevieve                Tea Tree                 
+Pearce         Alfred                   Grass Tree Hill          
+Gordon         Henry                    Spring Hill Bottom       
+Elliott        John                     Campania                 
+Wilson         Frank                    Richmond                 
+Buchanan       Lola                     Jerusalem                
+Rust           George J                 Richmond                 
+Duffy          William                  Richmond                 
+Zantuck        James                    Yarlington               
+Burrell        Guenevere                Richmond                 
+Waters         Edward W                 Richmond                 
+Brooks         Dolores                  Caol River               
+Buscombe       Isabelle                 Jerusalem                
+Freeman        Patrick                  Yarlington               
+Cooley         James (the younger)      Richmond                 
+Murdock        Arthur                   Richmond                 
+Hughes         Robert                   Jerusalem                
+Ogilvy         Alfred                   Richmond                 
+Ross           Robert                   Cambridge                
+Butler         Lena                     Caol River               
+Murridge       Philip                   Cambridge                
+Cockerill      Heidi                    Jerusalem                
+Ratcliffe      J E                      Bellerive                
+Broadby        Prue                     Native Corners           
+Lawrence       Alfred                   Richmond                 
+Rowlands       James                    Dulcot                   
+Lewis          George J                 Jerusalem                
+Davis          J.B.                     Richmond                 
+Kelly          Henry                    Hobart                   
+Skyrme         H                        Jerusalem                
+Turner         Charles D                Richmond                 
+Ibbott         Charles                  Forest Bottom            
+Grieves        R C                      Jerusalem                
+Nichols        Charles                  New Town                 
+McConnon       Henry                    Yarlington               
+Stewart        William                  Risdon                   
+Oakley         Henry                    Flat Top Hill            
+Reynolds       Dennis                   Jerusalem                
+Pitchford      Roderick                 Richmond                 
+Ryan           Thomas                   Cambridge                
+White          David H                  Prosser's Plains         
+Marsh          Henry                    Cilwin                   
+Forsyth        George                   Richmond                 
+Smith          Robert                   Hobart                   
+Halliday       Robert                   Jerusalem                
+Carrol         Joan                     Yarlington               
+Dawson         Richard                  Jerusalem                
+Edwards        J.B.                     Coal River               
+Kane           David                    Risdon                   
+Tapfield       Charles                  Hobart                   
+Tillack        George                   Tea Tree                 
+Lamb           James                    White Kangaroo River     
+Johnston       F                        Jerusalem                
+Hall           Thomas                   Mountain Bottom          
+Newnham        Nicholas                 Richmond                 
+Montgomery     Benjamin                 Jerusalem                
+Hanslow        Dennis                   GrassTree Hill           
+Cross          John                     Jerusalem                
+Crawley        Edward                   Cambridge                
+Iles           Richard                  Campania                 
+Graham         Edward                   Brighton                 
+McShane        G Levi(Senior)           White Kangaroo River     
+Daniels        George H                 Brighton                 
+Mooney         James                    Richmond                 
+Workman        J                        Montacute                
+Thomas         Augustus                 Cambridge                
+Fletcher       Charles                  Jerusalem                
+Coverdale      Dickenson                Hobart                   
+Stevens        William                  Mount Direction          
+Bone           Leah                     Campania                 
+McRorie        Thomas                   Cambridge                
+Gear           William                  Bellerive                
+Moebus         Pat                      Grass Tree Hill          
+Miles          John                     Richmond                 
+Albury         Liz                      Richmond                 
+Bailey         Susannah                 Jerusalem                
+Lincoln        John                     White Kngaroo River      
+Simmons        Stephen                  Jerusalem                
+Young          George                   Lower Jerusalem          
+Jacobs         Joseph                   Campania                 
+Westbrook      George                   Mountain Bottom          
+Grey           Alfred                   Hobart                   
+Stainer        Henry Edward Beaumont    Launceston               
+Roberts        Henry                    Richmond                 
+Jenkins        Gerald                   New Norfolk              
+Stokell        Peter                    Richmond                 
+Harris         Sydney                   Native Corners           
+Searle         Samuel                   Richmond                 
+Howlett        W.L.                     Thornton                 
+Costello       Henry r                  Cambridge                
+Story          David                    Jerusalem                
+Corrigan       J.M.                     Glen Ayr                 
+Stonehouse     William                  Jerusalem                
+Morrison       Frederick                Campania                 
+Kershaw        John W                   Richmond                 
+Piggot         Philip                   Coal River               
+Gates          William                  Jerusalem                
+Pierce         Thomas                   Richmond                 
+Riley          John                     Richmond                 
+Corbett        Charles                  Richmond                 
+Johnstone      Christopher              Yarlington               
+Godfrey        Thomas                   Cambridge                
+Slade          Andrew                   Hobart                   
+Huxtable       J                        Cambridge                
+Robertson      James                    Brandy Bottom            
+Shipley        David Brodie             Cambridge                
+Moffat         Alfred                   Hobart                   
+Parker         A.G.                     Jerusalem                
+Garland        Robert                   Spring Hill Bottom       
+Mathews        John                     Richmond                 
+Keady          Robert                   Brown Mountain           
+Martin         W                        Tea Tree                 
+Hugil          John                     Dulcot                   
+Guerin         William D                Richmond                 
+Olding         John W                   White Kangaroo River     
+Dossitor       John                     Richmond                 
+Plummer        Henry                    Richmond                 
+Crockitt       Jerry                    Cambridge                
+Mullins        William                  Dulcot                   
+Dean           William                  Coal River               
+Jordan         John                     Campania                 
+Steele         Robert                   Richmond                 
+Lord           Charles                  Forest Bottom            
+Lynch          Thomas                   Richmond                 
+Faraher        John                     Prosser's Road           
+Cornish        Michael                  Prosser's Road           
+McManus        Henry                    Native Corners           
+Jupp           W.L.                     Risdon                   
+Seargant       Henry                    Jerusalem                
+Fenner         James                    Richmond                 
+Dickson        Alfred                   Richmond                 
+Gilchrist      Daniel                   Yarlington               
+Delaney        Charles                  Forbes                   
+Johnson        Richard                  Spring Hill Bottom       
+Hooper         Philip                   Caol River               
+Whyte          George                   Tunnack                  
+Duggan         T                        Tea Tree                 
+Tinning        Richard                  Coal River               
+Holmes         James                    Campania                 
+Price          Charles                  Jerusalem                
+Jarvis         William                  Jerusalem Park           
+Hobden         Maurice                  Launceston               
+Cummings       John                     Brighton                 
+Hainey         Frank                    GrassTree Hill           
+Holehan        W                        Jerusalem                
+Hewitt         Johnston                 Richmond                 
+Toplis         Charles                  Hobart                   
+Jordans        Charles                  Richmond                 
+Paice          Thomas                   Coal River               
+Elkines        William                  Yarlington               
+Hart           Alfred                   Richmond                 
+Redding        Thomas                   Hobart                   
+Griffiths      William                  Richmond                 
+Roe            Johnston                 Henry St,Richmond        
+Nicholls       John                     Hobart                   
+Whelan         Thomas                   Spring Hill Bottom       
+Gregory        Philip                   Jerusalem                
+De             Edward                   Bellerive                
+Sutar          John the younger         Cambridge                
+Maxwell        Roderick                 Cambridge                
+Greenlaw       Henry                    Cambridge                
+Woolford       Henry Edward Beaumont    Glen Ayr                 
+Game           V.W                      Tea Tree                 
+Knight         Dennis                   Brushy Plains            
+Tolland        Robert                   Hobart                   
+Adams          John                     Freetown                 
+Ryly           Arthur                   New Town                 
+Denny          Charles                  Grass Tree Hill          
+Crocker        James P                  Jerusalem                
+Quinn          James                    Jerusalem                
+Webster        Thomas                   Richmond                 
+Goodwin        P                        Cambridge                
+Dobson         Victor W                 Jerusalem                
+Lane           William                  Oatlands                 
+Turvey         D.R.                     Hobart                   
+Percy          James                    Cambridge                
+French         John                     Leven Banks              
+Salmon         Hugh                     Hobart                   
+Flannerley     Patrick                  Cambridge                
+Grant          John                     Spring Hill Bottom       
+Langdon        Charles                  Richmond                 
+Steel          George                   Richmond                 
+Morrisby       Hugh                     Green Ponds              
+Lander         S.W.                     Richmond                 
+McDonald       James                    Tea Tree                 
+Dosseter       Cornelius                Native Corners           
+Welsh          Thomas                   Cambridge                
+Phillips       James                    Spring Hill Bottom       
+Rose           John W                   Hobart                   
+Gage           James                    Spring Bottom Hil        
+Hales          Thomas                   Campania                 
+McGuire        Richard                  Victoria                 
+Williams       William                  Bellerive                
+Strachan       William                  Coal River               
+Double         Henry                    Flat Top Hill            
+Cruse          Isaac E                  Geils Town               
+Geason         M.L.                     Bisdee                   
+Gough          William J                Brinktop                 
+Wheelan        W H                      Jerusalem                
+Pitt           Henry                    Jerusalem                
+Robinson       Henry J                  Richmond                 
+Mackie         David                    Jerusalem                
+Harrison       Thomas                   Tea Tree                 
+Downham        G Levi(Senior)           Victoria                 
+Hutchinson     Alexander                Ormaig                   
+Spencer        Thomas                   Oatlands                 
+Dransfield     Benjamin                 Hobart                   
+Weston         H.J.                     New Norfolk              
+Oliver         Arthur                   Risdon                   
+Holness        Charles                  Lower Jerusalem          
+Gaby           Andrey                   Tea Tree                 
+Copplestone    Charles                  New Norfolk              
+Till           A.G.                     Jerusalem                
+Hookey         Thomas the younger       Richmond                 
+McQueen        W.T.                     Jerusalem                
+McShean        Henry                    Spring Hill Bottom       
+Murphy         Joseph                   New Norfolk              
+Sumner         Edward                   Bellerive                
+Jonesey        Bassett                  Jerusalem                
+Klie           John                     Brighton                 
+Reid           Peter                    Coal River               
+Linclon        J                        Jerusalem                
+Read           Henry                    Tea Tree                 
+Giblin         J                        Campania                 
+Stanfield      Albert                   Richmond                 
+O'Regan        William                  Glen Ayr                 
+Sands          Alfred                   Coal River               
+Hawkins        Charles                  Richmond                 
+Dodds          Benjamin                 Richmond                 
+Jackson        Thomas                   Huntington               
+Guy            Job                      Hobart                   
+Moore          George                   Coal River               
+Volkner        Thomas                   Richmond                 
+Drew           James                    Cambridge                
+Gravenor       James                    Richmond                 
